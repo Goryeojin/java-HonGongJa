@@ -12,7 +12,7 @@ public class ForSumFrom1To100Example2 {
 			sum += i;
 		}
 		
-		System.out.println("1 ~ " + (i-1) + "의 합 : " + sum);	// 1 ~ 100의 합 : 5050
+		System.out.println("1 ~ " + (i-1) + "의 합 : " + sum);
 	}
 
 }
