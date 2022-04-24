@@ -39,7 +39,6 @@ public class Exam07 {
 		}
 		
 		System.out.println("프로그램 종료");
-		
 	}
 
 }
