@@ -11,6 +11,10 @@ public class ReadExample {
 			int data = reader.read();
 			if(data == -1) break;
 			System.out.println((char)data);
+			// Ãâ·Â
+			// A
+			// B
+			// C
 		}
 		reader.close();
 	}

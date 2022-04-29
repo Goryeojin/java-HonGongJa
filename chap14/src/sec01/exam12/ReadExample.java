@@ -15,6 +15,9 @@ public class ReadExample {
 			if(readCharNum == -1) break;
 			for(int i=0; i<readCharNum; i++) {
 				System.out.println(buffer[i]);
+				// A
+				// B
+				// C
 			}
 		}
 		reader.close();

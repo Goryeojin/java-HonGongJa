@@ -12,7 +12,7 @@ public class WriteExample {
 		
 		writer.write(str);
 		
-		writer.flush();
+		writer.flush();	// test10.txt¿¡ "ABC" ÀúÀå
 		writer.close();
 		
 	}
