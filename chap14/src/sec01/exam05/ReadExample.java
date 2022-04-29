@@ -16,6 +16,7 @@ public class ReadExample {
 				System.out.println(buffer[i]);
 			}
 		}
+		is.close();
 	}
 
 }

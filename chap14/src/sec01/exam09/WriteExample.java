@@ -10,8 +10,10 @@ public class WriteExample {
 		
 		char[] array = {'A', 'B', 'C', 'D', 'E'};
 		
+		// 배열의 1번 인덱스부터 3개를 출력
 		writer.write(array, 1, 3);
 		
+		// 'B', 'C', 'D'가 저장된다.
 		writer.flush();
 		writer.close();
 		
